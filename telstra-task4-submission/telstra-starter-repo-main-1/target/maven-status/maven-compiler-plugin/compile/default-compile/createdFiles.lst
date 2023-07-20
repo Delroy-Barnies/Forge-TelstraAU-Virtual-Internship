@@ -1,0 +1,7 @@
+au\com\telstra\simcardactivator\repos\SimCardRepository.class
+au\com\telstra\simcardactivator\SimCardActivator.class
+au\com\telstra\simcardactivator\entities\SimCard.class
+au\com\telstra\simcardactivator\status\ActivationRequest.class
+au\com\telstra\simcardactivator\controllers\SimActivationController.class
+au\com\telstra\simcardactivator\status\ActivationResponse.class
+au\com\telstra\simcardactivator\Sim.class
